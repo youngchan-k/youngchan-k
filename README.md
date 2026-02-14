@@ -14,24 +14,3 @@ My research focuses on **generative human model and relighting** and **facial an
 
 Previously, I completed my **Master's** at [POSTECH Computer Graphics Lab](https://cg.postech.ac.kr) under [**Prof. Seung-Hwan Baek**](https://www.shbaek.com), working on **high-dimensional light properties** ([NeSpoF](https://youngchan-k.github.io/nespof), [spDataset](https://eschoi.com/SPDataset/)) and **light-matter interaction modeling** ([hpBRDF](https://yunseong0518.github.io/projects/hpBRDF/)).  
 I received my **B.S.** in Mathematics & Electrical and Electronic Engineering from **Yonsei University**.
-
----
-
-### 🧭 Currently
-
-- Ph.D. at **Max Planck Institute for Informatics** (Saarbrücken, Germany), started Apr 2026
-- Research under **Prof. Christian Theobalt**
-
----
-
-### 📬 Get in touch
-
-**[kyc9618@gmail.com](mailto:kyc9618@gmail.com)** · Feel free to reach out for questions or potential collaborations.
-
----
-
-<div align="center">
-
-*Thanks for visiting — let's connect.* ✨
-
-</div>
