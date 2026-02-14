@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 
-# 👋 Youngchan Kim
+# 👋 Hi, I'm Youngchan Kim
 
 [![Email](https://img.shields.io/badge/Email--EA4335?style=flat-square)](mailto:kyc9618@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone--34B7F1?style=flat-square)](tel:+82-10-3909-2338)
