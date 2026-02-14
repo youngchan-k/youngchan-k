@@ -3,11 +3,13 @@
 # 👋 Youngchan Kim
 
 [![Email](https://img.shields.io/badge/Email-kyc9618%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyc9618@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Click_to_call-34B7F1?style=flat-square&logo=phone)](tel:+82-10-3909-2338)
+[![Phone](https://img.shields.io/badge/Phone-Click_to_call-34B7F1?style=flat-square&logo=phone&logoColor=white)](tel:+82-10-3909-2338)
 [![GitHub](https://img.shields.io/badge/GitHub-youngchan--k-181717?style=flat-square&logo=github)](https://github.com/youngchan-k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/youngchan-k)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=Ny6K9vsAAAAJ&hl=ko)
-[![Website](https://img.shields.io/badge/Website-Youngchan_Kim-2ea043?style=flat-square)](https://youngchan-k.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-youngchan--k-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngchan-k)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ny6K9vsAAAAJ&hl=ko)
+[![Website](https://img.shields.io/badge/Website-Youngchan_Kim-2ea043?style=flat-square&logo=link&logoColor=white)](https://youngchan-k.github.io)
+
+</div>
 
 I'm a **Ph.D. student** in the [Dept. of Visual Computing and AI at MPI for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence), advised by [**Prof. Christian Theobalt**](https://people.mpi-inf.mpg.de/~theobalt/).  
 My research focuses on **generative human model and relighting** and **facial animation and motion synthesis** at the intersection of Computer Vision, Computer Graphics, and Machine Learning.
