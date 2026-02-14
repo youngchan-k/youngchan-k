@@ -2,12 +2,12 @@
 
 # 👋 Youngchan Kim
 
-[![Email](https://img.shields.io/badge/Email-kyc9618%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyc9618@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Click_to_call-34B7F1?style=flat-square&logo=phone&logoColor=white)](tel:+82-10-3909-2338)
-[![GitHub](https://img.shields.io/badge/GitHub-youngchan--k-181717?style=flat-square&logo=github)](https://github.com/youngchan-k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-youngchan--k-0A66C2?style=flat-square&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/youngchan-k)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Ny6K9vsAAAAJ&hl=ko)
-[![Website](https://img.shields.io/badge/Website-Youngchan_Kim-2ea043?style=flat-square&logo=link&logoColor=white)](https://youngchan-k.github.io)
+[![Email](https://img.shields.io/badge/Email--EA4335?style=flat-square)](mailto:kyc9618@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone--34B7F1?style=flat-square)](tel:+82-10-3909-2338)
+[![GitHub](https://img.shields.io/badge/GitHub--181717?style=flat-square)](https://github.com/youngchan-k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--0A66C2?style=flat-square)](https://www.linkedin.com/in/youngchan-k)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar--4285F4?style=flat-square)](https://scholar.google.com/citations?user=Ny6K9vsAAAAJ&hl=ko)
+[![Website](https://img.shields.io/badge/Website--2ea043?style=flat-square)](https://youngchan-k.github.io)
 
 </div>
 
